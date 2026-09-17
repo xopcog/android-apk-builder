@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.xopcog.mygame'
+    namespace "namespace "com.example.sampleapp"
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.xopcog.mygame"
+        applicationId "namespace "com.example.sampleapp"
         minSdk 21
         targetSdk 34
         versionCode 1
